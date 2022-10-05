@@ -1,5 +1,5 @@
 # term-utils
 
-Utilitiees for doing cool stuff on the terminal.
+Utilities for doing cool stuff on the terminal.
 
 

@@ -1,0 +1,24 @@
+[
+  {
+    "constellation": "sentinel-1",
+    "instruments": ["c-sar"],
+    "datetime": "2019-12-10T23:39:42.470199",
+    "start_datetime": "2019-12-10T23:39:42.470199",
+    "end_datetime": "2019-12-10T23:40:07.468393",
+    "platform": "sentinel-1a",
+    "sat:orbit_state": "ascending",
+    "sat:incidence_angle": 38.91876815414705,
+    "sat:relative_orbit": 173
+  },
+  {
+    "constellation": "sentinel-1",
+    "instruments": ["c-sar"],
+    "datetime": "2020-01-03T23:39:41.424360",
+    "start_datetime": "2020-01-03T23:39:41.424360",
+    "end_datetime": "2020-01-03T23:40:06.422627",
+    "platform": "sentinel-1a",
+    "sat:orbit_state": "ascending",
+    "sat:incidence_angle": 38.91735437625912,
+    "sat:relative_orbit": 175
+  }
+]
